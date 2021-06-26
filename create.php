@@ -1,3 +1,4 @@
+asdaasd
 <?php
 require_once "./db/connection.php";
  if(!isset($_SESSION['name_id'])){
